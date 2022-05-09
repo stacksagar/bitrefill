@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bitrefill/static/css/main.6a74950b.css",
+    "main.js": "/bitrefill/static/js/main.eb1f82e7.js",
+    "static/js/787.a9fea23f.chunk.js": "/bitrefill/static/js/787.a9fea23f.chunk.js",
+    "static/media/horizontal-blog1.png": "/bitrefill/static/media/horizontal-blog1.f75b9beeec00a67603ee.png",
+    "static/media/foods.png": "/bitrefill/static/media/foods.5d202f91163b21a7a832.png",
+    "static/media/horizontal-blog2.png": "/bitrefill/static/media/horizontal-blog2.55aad91ea0d77985339d.png",
+    "static/media/vertical-blog1.png": "/bitrefill/static/media/vertical-blog1.ce547ebe85962dc85711.png",
+    "static/media/shopping.png": "/bitrefill/static/media/shopping.84d4842c1ccc1460f1b2.png",
+    "static/media/travel.png": "/bitrefill/static/media/travel.0ecfb5ba23b3e9b97922.png",
+    "static/media/vertical-blog2.png": "/bitrefill/static/media/vertical-blog2.5429898dee12cce4e23b.png",
+    "static/media/gaming.png": "/bitrefill/static/media/gaming.403fe8101689df9c2857.png",
+    "static/media/entertainment.png": "/bitrefill/static/media/entertainment.0a76eff2cfcd59fb7bd9.png",
+    "static/media/app-store.png": "/bitrefill/static/media/app-store.5cbf3702edc29c31d041.png",
+    "index.html": "/bitrefill/index.html",
+    "main.6a74950b.css.map": "/bitrefill/static/css/main.6a74950b.css.map",
+    "main.eb1f82e7.js.map": "/bitrefill/static/js/main.eb1f82e7.js.map",
+    "787.a9fea23f.chunk.js.map": "/bitrefill/static/js/787.a9fea23f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a74950b.css",
+    "static/js/main.eb1f82e7.js"
+  ]
+}
